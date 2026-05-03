@@ -76,7 +76,7 @@ I don't use `emulateVisionDeficiency` as it only changes the UI, but not the und
 
 ### `@cantoo/color-blindness`
 
-You could integrate `@cantoo/color-blindness` with another tool tool, for example:
+You could integrate `@cantoo/color-blindness` with another tool, for example:
 
 * With PostCSS, to create alternative builds with modified hex values, then you can continue in Firefox as normal.
 * Or as a code editor plugin, like to show the effective hex color with different color deficiencies on hover.
